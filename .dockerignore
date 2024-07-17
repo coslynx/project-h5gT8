@@ -1,0 +1,13 @@
+```
+node_modules
+.env
+.env.local
+dist
+package-lock.json
+webpack.config.js
+tsconfig.json
+.eslintrc.js
+.prettierrc
+.gitlab-ci.yml
+Procfile
+```
